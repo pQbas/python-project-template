@@ -2,7 +2,7 @@
 
 This project serves as a template for Python-based projects, providing a structured setup with Poetry for dependency management and virtual environment handling.
 
-## Setup
+## setup
 ```shell
 # Clone repository
 git clone https://github.com/pQbas/python-project-template.git
