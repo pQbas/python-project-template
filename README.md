@@ -1,6 +1,6 @@
 # python-project-template
 
-# Setup
+## Setup
 ```shell
 # Clone repository
 git clone ....
